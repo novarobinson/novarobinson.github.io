@@ -1,0 +1,32 @@
+baseurl: "" # the subpath of your site, e.g. /blog
+description: >- # this means to ignore newlines until "baseurl:"
+  Assistant Professor at Seattle University. Historian of the modern Middle
+  East with a special focus on women's rights 
+email: "robins60@seattleu.edu"
+encoding: utf-8
+exclude:
+  - README.md
+favicons:
+  32: "/assets/logo.png"
+lang: en-US
+navigation_header:
+- title: Home
+  url: /
+- title: Publications
+  url: /publications/
+- title: Current Projects
+  url: /current-projects/
+- title: Teaching
+  url: /teaching/
+- title: About Me
+  url: /about-me/
+- title: Contact
+  url: /contact-me/
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+remote_theme: daviddarnes/alembic
+title: "Nova Robinson"
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
