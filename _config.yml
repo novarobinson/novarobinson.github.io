@@ -1,7 +1,7 @@
 baseurl: ""
 description: >-
   Assistant Professor at Seattle University. Historian of the modern Middle
-  East with a special focus on women's rights 
+  East with a special focus on women's rights
 email: "robins60@seattleu.edu"
 encoding: utf-8
 exclude:
@@ -9,6 +9,19 @@ exclude:
 favicons:
   32: "/assets/logo.png"
 lang: en-US
+navigation_footer:
+- title: Home
+  url: /
+- title: Publications
+  url: /publications/
+- title: Current Projects
+  url: /current-projects/
+- title: Teaching
+  url: /teaching/
+- title: About Me
+  url: /about-me/
+- title: Contact
+  url: /contact-me/
 navigation_header:
 - title: Home
   url: /
