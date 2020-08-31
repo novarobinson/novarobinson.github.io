@@ -1,5 +1,5 @@
-baseurl: "" # the subpath of your site, e.g. /blog
-description: >- # this means to ignore newlines until "baseurl:"
+baseurl: ""
+description: >-
   Assistant Professor at Seattle University. Historian of the modern Middle
   East with a special focus on women's rights 
 email: "robins60@seattleu.edu"
@@ -29,4 +29,4 @@ plugins:
   - jekyll-seo-tag
 remote_theme: daviddarnes/alembic
 title: "Nova Robinson"
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.novarobinson.com"
