@@ -11,7 +11,7 @@ title: Contact
 **International Studies Program**
 
 206.296.6994<br>
-robins60 at seattleu.edu
+novarobinson at seattleu.edu
 
 901 12th Avenue<br>
 Seattle, Washington 98102<br>

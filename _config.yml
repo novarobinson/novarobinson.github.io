@@ -2,7 +2,7 @@ baseurl: ""
 description: >-
   Assistant Professor at Seattle University. Historian of the modern Middle
   East with a special focus on women's rights
-email: "robins60@seattleu.edu"
+email: "novarobinson@seattleu.edu"
 encoding: utf-8
 exclude:
   - README.md
