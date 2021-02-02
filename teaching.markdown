@@ -1,7 +1,7 @@
 ---
 feature_image: "/assets/rug.jpg"
 feature_text: |
-  ## Nova Robinson
+  # Nova Robinson
 layout: page
 title: Teaching
 ---

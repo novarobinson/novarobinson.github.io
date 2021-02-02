@@ -2,7 +2,7 @@
 aside: "publications-aside.html"
 feature_image: "/assets/rug.jpg"
 feature_text: |
-  ## Nova Robinson
+  # Nova Robinson
 layout: page
 title: Publications
 ---

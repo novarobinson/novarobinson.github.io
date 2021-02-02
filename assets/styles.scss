@@ -17,3 +17,9 @@ styles: true
 }
 
 @import "alembic";
+
+@media screen and (min-width: 64em) {
+  .typeset h1 {
+    font-size: 3.3529411765rem;
+  }
+}
