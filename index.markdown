@@ -3,8 +3,7 @@ aside: "index-aside.html"
 feature_image: "/assets/rug.jpg"
 feature_text: |
   ## Nova Robinson
-  Assistant Professor at Seattle University. Historian of the modern Middle
-  East with a special focus on women's rights
+  Assistant Professor at Seattle University.
 layout: page
 title: Home
 ---
