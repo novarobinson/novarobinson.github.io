@@ -3,7 +3,7 @@ aside: "index-aside.html"
 feature_image: "/assets/rug.jpg"
 feature_text: |
   # Nova Robinson
-  Assistant Professor at Seattle University
+  Associate Professor at Seattle University
 layout: page
 title: Home
 ---
