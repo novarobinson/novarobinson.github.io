@@ -9,8 +9,8 @@ title: About
 ## EMPLOYMENT
 2015 - Present<br>
 <strong>Seattle University</strong><br>
-Assistant Professor, History Department<br>
-Assistant Professor, International Studies Program
+Associate Professor, History Department<br>
+Associate Professor, International Studies Program
 
 ## EDUCATION
 2015<br>
