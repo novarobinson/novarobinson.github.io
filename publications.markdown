@@ -8,7 +8,7 @@ title: Publications
 ---
 
 ## Books
-_Truly Sisters: Arab Women and International Women's Rights_ (press submission: 2019)
+_Truly Sisters: Arab Women and International Women's Rights_
 
 _Fighting for Representation: The League of Nations and the Internationalization of Women's Rights_ (anticipated press submission: 2021)
 _Routledge Global History of Feminism, co-editor_ with Bonnie G. Smith (under contract; press submission: 2020)
