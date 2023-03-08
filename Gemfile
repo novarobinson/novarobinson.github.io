@@ -3,5 +3,5 @@
 source 'https://rubygems.org'
 
 group :jekyll_plugins do
-  gem 'github-pages', '211'
+  gem 'github-pages', '228'
 end
